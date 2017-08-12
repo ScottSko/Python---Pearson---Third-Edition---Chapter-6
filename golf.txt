@@ -1,0 +1,6 @@
+Scott
+100
+James
+5
+John
+90
